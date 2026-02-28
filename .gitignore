@@ -1,0 +1,19 @@
+# Java binaries
+*.class
+*.jar
+*.war
+
+# Build folders
+bin/
+out/
+target/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+.directory
+*~
