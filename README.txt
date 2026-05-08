@@ -26,3 +26,12 @@ Student ID   : 202428405
   step5.png - Analyse
 
 ============================================================
+------------------------------------------------------------
+  AI USAGE
+------------------------------------------------------------
+
+  AI tools were used as a coding
+  assistant during development. All code was reviewed,
+  understood, and modified by the student.
+
+============================================================
