@@ -56,7 +56,7 @@ public class Step1ProfilePanel extends JPanel {
         gbc.insets  = new Insets(10, 8, 10, 8);
         gbc.fill    = GridBagConstraints.HORIZONTAL;
 
-        usernameField    = makeField("e.g. john_doe");
+        usernameField    = makeField("e.g. Okan_Can");
         schoolField      = makeField("e.g. Cankaya University");
         sessionNameField = makeField("e.g. Q1 Evaluation");
 
